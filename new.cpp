@@ -4,7 +4,7 @@ int main(){
     cout<<"hello again in new repo";
     cout<<"welcome";
     for(int i=0;i<15;i++){
-        cout<<i<<" ";
+        cout<<i<<" -< main ";
     }
 
     return 0;
