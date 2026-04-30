@@ -5,9 +5,9 @@ int main(){
     cout<<"welcome";
     for(int i=0;i<15;i++){
 
-        cout<<i<<" -< main ";
+        cout<<i<<" <-- main -->";
 
-        cout<<i<<"-> vbranch hello ";
+        cout<<i<<"<-- vbranch hello -->";
 
     }
 
